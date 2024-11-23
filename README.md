@@ -10,3 +10,5 @@ These are the solutions for the NINJA Slay ground 2.0
 **Day 4 (21 Nov)** : Prime Number
 
 **Day 5 (22 Nov)** : Check Sorted Array
+
+**Day 6 (23 Nov)** : Reverse a Number
