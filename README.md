@@ -12,3 +12,6 @@ These are the solutions for the NINJA Slay ground 2.0
 **Day 5 (22 Nov)** : Check Sorted Array
 
 **Day 6 (23 Nov)** : Reverse a Number
+
+**Day 7 (24 Nov)** : Reverse an Array
+
