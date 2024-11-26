@@ -16,3 +16,5 @@ These are the solutions for the NINJA Slay ground 2.0
 **Day 7 (24 Nov)** : Reverse an Array
 
 **Day 8 (25 Nov)** :  GCD or HCF
+
+**Day 9 (26 Nov)** :  Second Largest Number
