@@ -18,3 +18,6 @@ These are the solutions for the NINJA Slay ground 2.0
 **Day 8 (25 Nov)** :  GCD or HCF
 
 **Day 9 (26 Nov)** :  Second Largest Number
+
+**Day 10 (27 Nov)** : Highest / Lowest Frequency Elements
+
