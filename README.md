@@ -27,5 +27,7 @@ These are the solutions for the NINJA Slay ground 2.0
 
 **Day 12 (29 Nov)** :   Add One To Number
 
+**Day 13 (30 Nov)** :   Binary Search
+
 
 
