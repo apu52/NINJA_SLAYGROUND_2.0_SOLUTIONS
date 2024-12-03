@@ -35,4 +35,6 @@ These are the solutions for the NINJA Slay ground 2.0
 
 **Day 16 (03 Dec)** :  Valid Parentheses
 
+**Day 17 (04 Dec)** :  Implement Upper Bound
+
 
