@@ -37,4 +37,5 @@ These are the solutions for the NINJA Slay ground 2.0
 
 **Day 17 (04 Dec)** :  Implement Upper Bound
 
+**Day 18 (05 Dec)** :  Spiral Matrix
 
