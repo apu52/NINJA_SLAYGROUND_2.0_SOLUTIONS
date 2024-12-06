@@ -41,3 +41,5 @@ These are the solutions for the NINJA Slay ground 2.0
 
 **Day 19 (06 Dec)** :  Zero Matrix
 
+**Day 20 (07 Dec)** :  Pascal's Triangle
+
