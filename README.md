@@ -43,3 +43,5 @@ These are the solutions for the NINJA Slay ground 2.0
 
 **Day 20 (07 Dec)** :  Pascal's Triangle
 
+**Day 21 (08 Dec)** :  Number of Inversions
+
