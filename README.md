@@ -21,8 +21,6 @@ These are the solutions for the NINJA Slay ground 2.0
 
 **Day 10 (27 Nov)** : Highest / Lowest Frequency Elements
 
-**Day 10 (27 Nov)** : Highest / Lowest Frequency Elements
-
 **Day 11 (28 Nov)** :  Two Sum
 
 **Day 12 (29 Nov)** :  Add One To Number
